@@ -1,13 +1,13 @@
 {
-  "name": "cordova-plugin-android-referrer",
+  "name": "android-referrer-plugin",
   "version": "1.0.0",
   "description": "Plugin writes android install referrer in shared preferences.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kopimania/cordova-plugin-android-referrer"
+    "url": "https://github.com/kopimania/android-referrer-plugin"
   },
   "bugs": {
-    "url": "https://github.com/kopimania/cordova-plugin-android-referrer/issues"
+    "url": "https://github.com/kopimania/android-referrer-plugin/issues"
   },
   "keywords": [
     "cordova",
